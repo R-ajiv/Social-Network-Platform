@@ -17,4 +17,4 @@ Welcome to the Social Network Platform repository! This project is a full-stack 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
-- **Real-time Updates**: WebSocket (e.g., Socket.io)
+- **Real-time Updates**: WebSocket (e.g.,Socket.io)
