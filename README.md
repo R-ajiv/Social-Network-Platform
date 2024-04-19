@@ -13,8 +13,8 @@ Welcome to the Social Network Platform repository! This project is a full-stack 
 
 ## Tech Stack
 
-- **Frontend**: React.js, Redux (for state management), HTML5, CSS3, JavaScript
+- **Frontend**: React.js, Redux (for state management),HTML5, CSS3, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
-- **Real-time Updates**: WebSocket (e.g.,Socket.io)
+
