@@ -20,16 +20,16 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="https://social-network-platform.onrender.com/assets/info4.jpeg"
+        src="https://cdn.dribbble.com/userupload/8375740/file/original-84aff1cd65362e840fb3a56a868be884.jpg?resize=1200x675"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>MikaCosmetics</Typography>
-        <Typography color={medium}>mikacosmetics.com</Typography>
+        <Typography color={main}>Jujutsu Kaisen</Typography>
+        <Typography color={medium}>jujutsukaisen.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        Your pathway to stunning and immaculate beauty and made sure your skin
-        is exfoliating skin and shining like light.
+        "Experience the thrilling world of Jujutsu Kaisen! Join Yuji Itadori and his friends as they battle against curses and uncover the mysteries of the Jujutsu world. Visit our website for more information."
+
       </Typography>
     </WidgetWrapper>
   );
