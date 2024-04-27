@@ -1,6 +1,6 @@
 # Social Network Platform
 
-Welcome to the Social Network Platform repository! This project is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a platform for users to connect, share content, and interact with each other in a social network environment.
+Welcome to the Social Network Platform repository! This project is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack.It provides a platform for users to connect, share content, and interact with each other in a social network environment.
 
 ## Features
 
